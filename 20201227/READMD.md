@@ -4,7 +4,7 @@ theme: default
 footer: https://github.com/cupperservice/LT-Document/tree/main/20201227
 ---
 
-# All in Scala
+# Let's get started with Scala
 
 Unagi.py 忘年 LT大会 2020
 2020.12.27
